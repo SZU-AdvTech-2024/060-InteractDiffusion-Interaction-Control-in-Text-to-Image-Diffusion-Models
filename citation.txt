@@ -1,0 +1,8 @@
+@inproceedings{REPO060,
+    author = "Hoe, Jiun Tian and Jiang, Xudong and Chan, Chee Seng and Tan, Yap-Peng and Hu, Weipeng",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "6180-6189",
+    title = "{InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models}",
+    year = "2024"
+}
